@@ -1,3 +1,5 @@
+- [Next.js Quick Template](https://github.com/laihuynhnhatminh/nextjs-quick-template)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
